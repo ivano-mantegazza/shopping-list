@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field">
+    <sys_sg_screen_field action="INSERT_OR_UPDATE">
+        <data_item_field_name>item</data_item_field_name>
+        <description_text/>
+        <description_text_field/>
+        <description_text_type/>
+        <field_name/>
+        <hidden>false</hidden>
+        <order>10</order>
+        <record_id_field/>
+        <screen display_value="Details">9eb91fbc2f030010ee7e808cf699b61d</screen>
+        <screen_data_item_table>x_455087_nshopping_shopping_item</screen_data_item_table>
+        <sys_class_name>sys_sg_screen_field</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-02-16 13:53:30</sys_created_on>
+        <sys_id>12b91fbc2f030010ee7e808cf699b62c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>item</sys_name>
+        <sys_package display_value="NShopping List" source="x_455087_nshopping">3d285f3c2f030010ee7e808cf699b63b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NShopping List">3d285f3c2f030010ee7e808cf699b63b</sys_scope>
+        <sys_update_name>sys_sg_screen_field_12b91fbc2f030010ee7e808cf699b62c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-02-16 13:53:30</sys_updated_on>
+        <type>auto</type>
+        <value_only>false</value_only>
+    </sys_sg_screen_field>
+    <sys_translated_text action="delete_multiple" query="documentkey=12b91fbc2f030010ee7e808cf699b62c"/>
+</record_update>

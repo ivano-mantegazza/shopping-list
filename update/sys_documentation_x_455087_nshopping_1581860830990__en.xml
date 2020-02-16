@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Nshopping 1581860830990" language="en" table="x_455087_nshopping_1581860830990">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Nshopping 1581860830990</label>
+            <language>en</language>
+            <name>x_455087_nshopping_1581860830990</name>
+            <plural>Nshopping 1581860830990s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-02-16 13:47:21</sys_created_on>
+            <sys_id>d458d37c2f030010ee7e808cf699b67c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Nshopping 1581860830990</sys_name>
+            <sys_package display_value="NShopping List" source="x_455087_nshopping">3d285f3c2f030010ee7e808cf699b63b</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NShopping List">3d285f3c2f030010ee7e808cf699b63b</sys_scope>
+            <sys_update_name>sys_documentation_x_455087_nshopping_1581860830990__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-02-16 13:47:21</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
